@@ -1,0 +1,38 @@
+***************************************QGIS MANUAL*************************************
+Open the QGIS software after download
+Click on new empty project
+Go to the "layer" manu and click on "add layer"
+Select "Add Vector layer"
+It will bring a window where you can navigate to the folder containing the country shapefile
+Select the files with an extension ".shp"
+THe country shapefiles are usually three
+Admin0,Admin1,Admin2
+Click on"Open"
+Click on "add"
+close the window
+                                                
+
+
+                                                     EXTRACTION OF STUDY AREA
+Right click on admin1 and select properties
+Here you can do a lot of graphic works
+Click on "Labels"
+Change the value to Name_1 and click OK
+Below the manu bar, look for "Select features" icon and click it
+Drag the mouse to the state where you want to extract and click on it
+Go to "Admin" and right click on it
+Select export
+Click selected feature as 
+Give it a file name and go to where you wish to save it
+
+
+
+
+
+
+
+
+
+
+
+
